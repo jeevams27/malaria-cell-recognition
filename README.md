@@ -1,4 +1,4 @@
-# EX06--Deep Neural Network for Malaria Infected Cell Recognition
+# EX08--Deep Neural Network for Malaria Infected Cell Recognition
 
 ## AIM:
 
