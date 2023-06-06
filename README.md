@@ -196,7 +196,7 @@ plt.show()
 
 ### Confusion Matrix
 
-![image](dlexp8.1.jpg)
+![image](EXP8.C.jpg)
 
 ### New Sample Data Prediction
 ![image](dlexp8.2.jpg)
