@@ -199,7 +199,7 @@ plt.show()
 ![image](dlexp8.1.jpg)
 
 ### New Sample Data Prediction
-![image](dlexp8.1.jpg)
+![image](dlexp8.2.jpg)
 
 
 ## RESULT:
