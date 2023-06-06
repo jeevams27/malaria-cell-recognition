@@ -196,10 +196,10 @@ plt.show()
 
 ### Confusion Matrix
 
-![image](https://github.com/NITHISH74/malaria-cell-recognition/assets/94164665/240bd2f8-88f7-44d1-a511-d8f8ed9ba40a)
+![image](dlexp8.1.jpg)
 
 ### New Sample Data Prediction
-![image](https://github.com/NITHISH74/malaria-cell-recognition/assets/94164665/16097c7f-39c6-418f-be70-7dadd9f05afc)
+![image](dlexp8.1.jpg)
 
 
 ## RESULT:
